@@ -1,6 +1,6 @@
 # React Jobs - Job Board Application
 
-A modern, responsive job board application built with React, focusing on React developer positions. This application allows employers to post job listings and developers to browse and apply for positions.
+A modern, responsive job board application built with React, focusing on open Software Devbeloper positions. This application allows employers to post job listings and developers to browse and apply for positions. The application uses a mock API powered by JSON Server to simulate a backend, making it ideal for demonstration and training purposes.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ A modern, responsive job board application built with React, focusing on React d
 - **React**: UI library for building user interfaces
 - **React Router**: For navigation and routing
 - **Tailwind CSS**: Utility-first CSS framework for styling
-- **JSON Server**: Backend mock API for development
+- **JSON Server**: Mock API backend for job data storage and retrieval
 - **React Icons**: For beautiful, consistent icons
 - **React Toastify**: For displaying notifications
 - **React Spinners**: For loading indicators
